@@ -399,13 +399,6 @@ make format-check   # Check formatting only
 
 For detailed contributing guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Developer Documentation
-
-- **[Dependency Update Quick Start](docs/DEPENDENCY_UPDATE_README.md)** - Start here! Answers "what files to change?"
-- **[Dependency Update Guide](docs/DEPENDENCY_UPDATE_GUIDE.md)** - Complete guide for updating package dependencies
-- **[Dependency Update Checklist](docs/DEPENDENCY_UPDATE_CHECKLIST.md)** - Quick reference checklist for dependency updates
-- **[Dependency Update Flow](docs/DEPENDENCY_UPDATE_FLOW.md)** - Visual flow diagrams and reference
-
 ## Code Quality / Linting
 
 LiteLLM follows the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html).
