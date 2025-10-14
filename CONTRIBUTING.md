@@ -272,4 +272,9 @@ Looking for ideas? Check out:
 - 🧪 Test coverage improvements
 - 🔌 New LLM provider integrations
 
+## Additional Developer Resources
+
+- **[Dependency Update Guide](docs/DEPENDENCY_UPDATE_GUIDE.md)** - Complete guide for updating package dependencies
+- **[Dependency Update Checklist](docs/DEPENDENCY_UPDATE_CHECKLIST.md)** - Quick reference checklist for dependency updates
+
 Thank you for contributing to LiteLLM! 🚀 
