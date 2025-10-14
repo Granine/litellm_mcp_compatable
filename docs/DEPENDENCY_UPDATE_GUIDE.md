@@ -300,6 +300,8 @@ Use this checklist when updating a dependency:
 
 ## Additional Resources
 
+- [Dependency Update Flow Diagram](./DEPENDENCY_UPDATE_FLOW.md) - Visual reference for the update process
+- [Dependency Update Checklist](./DEPENDENCY_UPDATE_CHECKLIST.md) - Quick reference checklist
 - [Poetry Documentation](https://python-poetry.org/docs/)
-- [LiteLLM Contributing Guide](./CONTRIBUTING.md)
-- [Release Notes Generation Instructions](./cookbook/misc/RELEASE_NOTES_GENERATION_INSTRUCTIONS.md)
+- [LiteLLM Contributing Guide](../CONTRIBUTING.md)
+- [Release Notes Generation Instructions](../cookbook/misc/RELEASE_NOTES_GENERATION_INSTRUCTIONS.md)

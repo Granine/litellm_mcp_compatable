@@ -128,4 +128,6 @@ After updating:
 
 ---
 
-For detailed information, see [DEPENDENCY_UPDATE_GUIDE.md](./DEPENDENCY_UPDATE_GUIDE.md)
+For detailed information, see:
+- [DEPENDENCY_UPDATE_GUIDE.md](./DEPENDENCY_UPDATE_GUIDE.md) - Complete guide with examples
+- [DEPENDENCY_UPDATE_FLOW.md](./DEPENDENCY_UPDATE_FLOW.md) - Visual flow diagrams and reference

@@ -276,5 +276,6 @@ Looking for ideas? Check out:
 
 - **[Dependency Update Guide](docs/DEPENDENCY_UPDATE_GUIDE.md)** - Complete guide for updating package dependencies
 - **[Dependency Update Checklist](docs/DEPENDENCY_UPDATE_CHECKLIST.md)** - Quick reference checklist for dependency updates
+- **[Dependency Update Flow](docs/DEPENDENCY_UPDATE_FLOW.md)** - Visual flow diagrams and reference
 
 Thank you for contributing to LiteLLM! 🚀 
