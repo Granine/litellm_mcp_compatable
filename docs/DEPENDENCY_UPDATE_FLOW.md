@@ -1,5 +1,9 @@
 # Dependency Update Flow Diagram
 
+**👉 New to dependency updates? Start with [DEPENDENCY_UPDATE_README.md](./DEPENDENCY_UPDATE_README.md) for an overview!**
+
+---
+
 This document provides a visual reference for the dependency update process in LiteLLM.
 
 ## File Dependency Map

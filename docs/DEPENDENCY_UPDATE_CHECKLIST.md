@@ -1,5 +1,9 @@
 # Dependency Update Quick Reference Checklist
 
+**👉 New to dependency updates? Start with [DEPENDENCY_UPDATE_README.md](./DEPENDENCY_UPDATE_README.md) for an overview!**
+
+---
+
 Use this checklist when updating a dependency package version in LiteLLM.
 
 ## Files to Update

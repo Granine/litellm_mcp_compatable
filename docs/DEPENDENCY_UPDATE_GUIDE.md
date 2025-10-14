@@ -1,5 +1,9 @@
 # Dependency Update Guide
 
+**👉 New to dependency updates? Start with [DEPENDENCY_UPDATE_README.md](./DEPENDENCY_UPDATE_README.md) for a quick overview!**
+
+---
+
 This guide explains all the files you need to update when increasing the version of a dependency package in LiteLLM. This applies to backward-compatible dependency updates.
 
 ## Files to Update
